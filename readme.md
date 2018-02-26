@@ -1,4 +1,4 @@
-# Interesting Firefox Extensions [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
+# Interesting Firefox Extensions [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 ## General
@@ -21,7 +21,7 @@
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
+See [contribution guidelines](contributing.md#contribution-guidelines#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
