@@ -9,6 +9,7 @@
 - [Tab search](https://github.com/reblws/tab-search) - Keyboard-accessible tab management.
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
+- [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
 
 ## Developer
 - [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
