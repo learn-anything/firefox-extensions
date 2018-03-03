@@ -13,6 +13,7 @@
 ## Developer
 - [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+- [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to Chrome Dev tools.
 - [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) - Adds debugging for Redux to Chrome Dev tools.
 - [Sourcegraph for GitHub](https://addons.mozilla.org/en-US/firefox/addon/sourcegraph-addon-for-github/) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
