@@ -19,6 +19,7 @@
 
 ## Related
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [Essential Firefox](https://github.com/jorgegonzalez/essential-firefox)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
