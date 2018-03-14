@@ -21,8 +21,8 @@
 - [Sourcegraph for GitHub](https://addons.mozilla.org/en-US/firefox/addon/sourcegraph-addon-for-github/) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 
 ## Related
-- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-- [Essential Firefox](https://github.com/jorgegonzalez/essential-firefox)
+- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+- [Essential Firefox](https://github.com/jorgegonzalez/essential-firefox#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
