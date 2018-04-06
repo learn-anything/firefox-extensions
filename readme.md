@@ -21,7 +21,7 @@
 - [Sourcegraph for GitHub](https://addons.mozilla.org/en-US/firefox/addon/sourcegraph-addon-for-github/) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 
 ## Other
-- [Dat-Firefox](https://github.com/sammacbeth/dat-fox) - Dat:// protocol as a Firefox webextension.
+- [Dat-Firefox](https://github.com/sammacbeth/dat-fox) - dat:// protocol as a Firefox webextension.
 
 ## Related
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
