@@ -20,6 +20,9 @@
 - [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) - Adds debugging for Redux to Chrome Dev tools.
 - [Sourcegraph for GitHub](https://addons.mozilla.org/en-US/firefox/addon/sourcegraph-addon-for-github/) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 
+## Other
+- [Dat-Firefox](https://github.com/sammacbeth/dat-fox) - Dat:// protocol as a Firefox webextension.
+
 ## Related
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 - [Essential Firefox](https://github.com/jorgegonzalez/essential-firefox#readme)
