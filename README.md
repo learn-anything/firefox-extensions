@@ -9,8 +9,8 @@
 
 - [Developer](#developer)
 - [General](#general)
-- [Related](#related)
 - [Other](#other)
+- [Related](#related)
 
 ---
 
@@ -36,14 +36,14 @@
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) - Probably the best adblocker for Firefox there is.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 
+## Other
+
+- [Dat-Firefox](https://github.com/sammacbeth/dat-fox) - dat:// protocol as a Firefox webextension.
+
 ## Related
 
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 - [Essential Firefox](https://github.com/jorgegonzalez/essential-firefox#readme)
-
-## Other
-
-- [Dat-Firefox](https://github.com/sammacbeth/dat-fox) - dat:// protocol as a Firefox webextension.
 
 ---
 
