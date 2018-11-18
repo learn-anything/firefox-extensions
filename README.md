@@ -26,6 +26,7 @@
 ## General
 
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
+- [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Disconnect](https://disconnect.me/) - Adds an extra layer of security on top of [uBlock Origin](https://adguard.com/en/adblock-adguard-safari.html).
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Protect your communications by enabling HTTPS encryption automatically on sites that are known to support it.
@@ -35,7 +36,6 @@
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) - Probably the best adblocker for Firefox there is.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
-- [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
 
 ## Other
 
