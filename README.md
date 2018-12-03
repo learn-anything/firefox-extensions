@@ -45,7 +45,6 @@
 ## Related
 
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-- [Essential Firefox](https://github.com/jorgegonzalez/essential-firefox#readme)
 
 ---
 
