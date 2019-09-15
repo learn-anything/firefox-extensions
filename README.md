@@ -35,6 +35,7 @@
 - [Stylus](https://add0n.com/stylus.html) - Easily install themes and skins for many popular sites.
 - [Tab search](https://github.com/reblws/tab-search) - Keyboard-accessible tab management.
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
+- [Vim Vixen](https://github.com/ueokande/vim-vixen) - Accelerate your browsing with Vim power.
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) - Probably the best adblocker for Firefox there is.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 
