@@ -29,6 +29,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
 - [Stylus](https://add0n.com/stylus.html) - Easily install themes and skins for many popular sites.
 - [Tab search](https://github.com/reblws/tab-search) - Keyboard-accessible tab management.
+- [Taskade](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/) - Real-time organization and collaboration tool for remote teams with task lists, mind maps, integrated video chat, and more.        
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
 - [Vim Vixen](https://github.com/ueokande/vim-vixen) - Accelerate your browsing with Vim power.
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) - Probably the best adblocker for Firefox there is.
