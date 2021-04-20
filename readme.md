@@ -25,7 +25,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
 - [Vim Vixen](https://github.com/ueokande/vim-vixen) - Accelerate your browsing with Vim power.
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) - Probably the best adblocker for Firefox there is.
-- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 
 ## Other
 
