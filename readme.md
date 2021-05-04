@@ -34,7 +34,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Related
 
-- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [Recommended browser add-ons from PrivacyTools.io](https://www.privacytools.io/browsers/#addons).
+- [Firefox's Privacy Related "about:config" Tweaks](https://www.privacytools.io/browsers/#about_config).
+- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github).
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
