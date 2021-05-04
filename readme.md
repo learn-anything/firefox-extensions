@@ -20,6 +20,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Disconnect](https://disconnect.me/) - Adds an extra layer of security on top of [uBlock Origin](https://adguard.com/en/adblock-adguard-safari.html).
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Protect your communications by enabling HTTPS encryption automatically on sites that are known to support it.
+- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Used for protection against XSS other web security exploits. Source code is available [here](https://github.com/hackademix/noscript/).
 - [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
 - [Stylus](https://add0n.com/stylus.html) - Easily install themes and skins for many popular sites.
 - [Tab search](https://github.com/reblws/tab-search) - Keyboard-accessible tab management.
