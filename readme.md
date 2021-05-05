@@ -14,7 +14,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## General
 
-- [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
+- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/).
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet. ClearURL's source code is available [here](https://gitlab.com/KevinRoebert/ClearUrls).
 - [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
